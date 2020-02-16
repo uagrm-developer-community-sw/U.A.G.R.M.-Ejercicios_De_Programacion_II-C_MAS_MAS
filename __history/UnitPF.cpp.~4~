@@ -1,0 +1,23 @@
+//---------------------------------------------------------------------------
+
+#include <vcl.h>
+#pragma hdrstop
+
+#include "UnitPF.h"
+#include "UnitNNR.h"
+//---------------------------------------------------------------------------
+#pragma package(smart_init)
+#pragma resource "*.dfm"
+TUnitFP *UnitFP;
+//---------------------------------------------------------------------------
+__fastcall TUnitFP::TUnitFP(TComponent* Owner)
+	: TForm(Owner)
+{
+}
+//---------------------------------------------------------------------------
+void __fastcall TUnitFP::BtnRecursividadPFClick(TObject *Sender)
+{
+	UnitFP->Hide();
+	Formulario_Recursividad->Show();
+}
+//---------------------------------------------------------------------------
