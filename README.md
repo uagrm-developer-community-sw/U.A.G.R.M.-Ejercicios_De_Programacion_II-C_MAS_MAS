@@ -2,19 +2,21 @@
 U.A.G.R.M. | Materia: Programacion II | Contenido: Ejercicios | Lenguaje: C++ | IDE: Builder - Rad Studio 10.3 (Rio  Architect)
 
 =====================================================================
-Ide: Rad Studio 10.3 (Rio Architect)<BR>
-Imagen: Formulario Principal<BR>
+# Ide: Rad Studio 10.3 (Rio Architect)<BR>
+![Rad Studio 10.3](Imagenes/RadStudioRio.png)
+# Imagen: Formulario Principal<BR>
+![formularioprincipal](Imagenes/formularioprincipal.png)
+# Imagen: Formulario Recursividad<BR>
+![formularioprincipal](Imagenes/Recursividad.png)
 **********************************************************************
-Class Numeros Enteros<BR>
 Inicio<BR>
-Ejercicios:<BR>
 
 'LIMPIAR 1<BR>
 'LIMPIAR 2<BR>
 'LIMPIAR 3<BR>
 'LIMPIAR 4<BR>
 'LIMPIAR TODO<BR>
-'SALIR
+'SALIR<BR>
 **********************************************************************
 Herramientas<BR>
 Ejercicios:<BR>

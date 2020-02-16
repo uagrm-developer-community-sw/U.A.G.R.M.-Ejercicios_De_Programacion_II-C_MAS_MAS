@@ -4,8 +4,8 @@
 #pragma hdrstop
 #include <tchar.h>
 //---------------------------------------------------------------------------
-USEFORM("UnitNNR.cpp", Formulario_Recursividad);
 USEFORM("UnitPF.cpp", UnitFP);
+USEFORM("UnitNNR.cpp", Formulario_Recursividad);
 //---------------------------------------------------------------------------
 int WINAPI _tWinMain(HINSTANCE, HINSTANCE, LPTSTR, int)
 {
