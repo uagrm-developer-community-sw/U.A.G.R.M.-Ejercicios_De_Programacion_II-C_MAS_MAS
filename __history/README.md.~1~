@@ -9,7 +9,7 @@ U.A.G.R.M. | Materia: Programacion II | Contenido: Ejercicios | Lenguaje: C++ | 
 # Imagen: Formulario Recursividad<BR>
 ![formularioprincipal](Imagenes/Recursividad.png)
 **********************************************************************
-# Inicio<BR>
+Inicio<BR>
 
 'LIMPIAR 1<BR>
 'LIMPIAR 2<BR>
@@ -18,8 +18,8 @@ U.A.G.R.M. | Materia: Programacion II | Contenido: Ejercicios | Lenguaje: C++ | 
 'LIMPIAR TODO<BR>
 'SALIR<BR>
 **********************************************************************
-# Recursividad<BR>
-# Ejercicios:<BR>
+Recursividad<BR>
+Ejercicios:<BR>
 
 'Mostrar_N_Enteros - EJE: 5 -> 1,2,3,4,5<BR>
 'Mostrar_N_Enteros_Invertidos - EJE: 5 -> 5,4,3,2,1<BR>
