@@ -229,6 +229,7 @@ int Contar_Digitos_Impares(int n){
   }
   return ccc;
 }
+//---------------------------------------------------------------------------
 // Obtener el factorial - EJE: 3! => 6
 int Obtener_factorial(int n){
 	if (n==0) {
