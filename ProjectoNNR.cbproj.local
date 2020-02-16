@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/03/16 17:21:02.000.575,=C:\Users\jhasm\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2019/03/16 17:21:07.000.080,=C:\Users\jhasm\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2019/12/21 13:33:42.000.159,=C:\Users\jhasm\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2019/12/21 13:33:44.000.249,=C:\Users\jhasm\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2019/12/22 18:32:39.000.768,=C:\Users\jhasm\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2019/12/22 18:32:39.000.593,=C:\Users\jhasm\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2019/12/22 18:58:52.000.644,C:\Users\jhasm\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\UAGRM FICCT\3 - PROGRAMACION II\Practicas Rad Studio Rio\Numeros Naturales Recursividad\UnitNNR.dfm</Transaction>
+    <Transaction>2019/12/22 18:58:52.000.644,C:\Users\jhasm\Documents\Embarcadero\Studio\Projects\Unit1.h=D:\UAGRM FICCT\3 - PROGRAMACION II\Practicas Rad Studio Rio\Numeros Naturales Recursividad\UnitNNR.h</Transaction>
+    <Transaction>2019/12/22 18:58:52.000.644,C:\Users\jhasm\Documents\Embarcadero\Studio\Projects\Unit1.cpp=D:\UAGRM FICCT\3 - PROGRAMACION II\Practicas Rad Studio Rio\Numeros Naturales Recursividad\UnitNNR.cpp</Transaction>
+    <Transaction>2019/12/22 18:58:56.000.100,C:\Users\jhasm\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=D:\UAGRM FICCT\3 - PROGRAMACION II\Practicas Rad Studio Rio\Numeros Naturales Recursividad\Project1PCH1.h</Transaction>
+    <Transaction>2019/12/22 18:59:14.000.296,C:\Users\jhasm\Documents\Embarcadero\Studio\Projects\Project1.cbproj=D:\UAGRM FICCT\3 - PROGRAMACION II\Practicas Rad Studio Rio\Numeros Naturales Recursividad\ProjectoNNR.cbproj</Transaction>
+    <Transaction>2019/12/22 18:59:14.000.248,D:\UAGRM FICCT\3 - PROGRAMACION II\Practicas Rad Studio Rio\Numeros Naturales Recursividad\Project1PCH1.h=D:\UAGRM FICCT\3 - PROGRAMACION II\Practicas Rad Studio Rio\Numeros Naturales Recursividad\ProjectoNNRPCH1.h</Transaction>
+  </Transactions>
+</BorlandProject>
