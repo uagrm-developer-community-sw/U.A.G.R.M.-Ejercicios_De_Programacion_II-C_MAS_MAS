@@ -8,6 +8,7 @@ U.A.G.R.M. | Materia: Programacion II | Contenido: Ejercicios | Lenguaje: C++ | 
 ![formularioprincipal](Imagenes/formularioprincipal.png)
 # Imagen: Formulario Recursividad<BR>
 ![formularioprincipal](Imagenes/Recursividad.png)
+
 **********************************************************************
 # Inicio<BR>
 
