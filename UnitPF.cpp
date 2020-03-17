@@ -26,3 +26,4 @@ void __fastcall TUnitFP::BtnSalirPFClick(TObject *Sender)
 	Close();
 }
 //---------------------------------------------------------------------------
+
