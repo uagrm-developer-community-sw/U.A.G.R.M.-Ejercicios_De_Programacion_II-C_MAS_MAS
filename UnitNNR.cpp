@@ -332,20 +332,4 @@ void __fastcall TFormulario_Recursividad::FACTORIAL1Click(TObject *Sender)
    Edit4->Text=Obtener_factorial(n);
 }
 //---------------------------------------------------------------------------
-// Obtener el factorial - EJE: 3! => 6
-void __fastcall TFormulario_Recursividad::FACTORIAL1Click(TObject *Sender)
-{
-   int n;
-   n=StrToInt(Edit1->Text);
-   Edit4->Text=Obtener_factorial(n);
-}
-//---------------------------------------------------------------------------
-// Obtener el factorial - EJE: 3! => 6
-void __fastcall TFormulario_Recursividad::FACTORIAL1Click(TObject *Sender)
-{
-   int n;
-   n=StrToInt(Edit1->Text);
-   Edit4->Text=Obtener_factorial(n);
-}
-//---------------------------------------------------------------------------
 
